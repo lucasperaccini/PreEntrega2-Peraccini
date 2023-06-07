@@ -1,0 +1,50 @@
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #F9F8F8;
+}
+p {
+	color: #07070A;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 250px;
+	text-decoration: none;
+	font-size: 1rem;
+	line-height: 1rem;
+}
+
+
+.superior {
+	background-color: #F9F8F8;
+
+}
+.menu, .submenu {
+	list-style: none;
+	margin-inline-start: 20px;
+	margin-inline-end: 20px;
+	
+}
+.menu{
+	width: 100%;
+}
+.submenu {
+	float:none;
+
+}
+
+.abajo {
+	background-color: #07070A;
+	float: none;
+}
+.abc{
+	float:left;
+}
+
+.abcd{
+	float:right;
+}
+
+.imagenes{
+	width: 250px;
+	margin-inline-start: 5px;
+	margin-inline-end: 5px;
+
+}
